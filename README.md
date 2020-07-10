@@ -3,6 +3,7 @@
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@weltonfelix)](https://medium.com/@weltonfelix)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-f48024?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11720702/welton-felix)](https://stackoverflow.com/users/11720702/welton-felix)
 
 Hi, I'm Welton, a Electronics student passionated about development and entrepreneurship.
 
