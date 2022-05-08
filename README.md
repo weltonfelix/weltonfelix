@@ -6,7 +6,6 @@
 
 Hi! I'm just trying to learn something new.
 
-- :books: I’m currently learning Typescript, React, Node.js and React Native.
-- :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
-- :pushpin: Interests: Web Development, Mobile Development, UX, UI Design.
+- :books: I’m currently learning Typescript, React, Django and C++.
+- :pushpin: Interests: Web Development, Mobile Development.
 - <img src="https://github.com/ifpeopensource.png" width="20px"/> IFPE Open Source: [Click here](https://ifpeopensource.com.br) to discover the wonderful world of open source!
