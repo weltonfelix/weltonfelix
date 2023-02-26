@@ -6,6 +6,6 @@
 
 Hi! I'm just trying to learn something new.
 
-- :books: I’m currently learning Typescript, React, Django and C++.
-- :pushpin: Interests: Web Development, Mobile Development.
+- :books: I’m currently learning Typescript, React, Kotlin and Rust.
+- :pushpin: Interests: Web Development, Mobile Development, Backend Development.
 - <img src="https://github.com/ifpeopensource.png" width="20px"/> IFPE Open Source: [Click here](https://ifpeopensource.com.br) to discover the wonderful world of open source!
