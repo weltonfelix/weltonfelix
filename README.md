@@ -1,11 +1,10 @@
 ## Welton Felix
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hi@weltonfelix.dev)](mailto:hi@weltonfelix.dev)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wplf@cin.ufpe.br)](mailto:wplf@cin.ufpe.br)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/weltonfelix/)](https://www.linkedin.com/in/weltonfelix/)
-[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/weltonfelix)](https://dev.to/weltonfelix)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@weltonfelix)](https://medium.com/@weltonfelix)
 
-Hi! I'm just trying to learn something new.
+Hi! I'm a Computer Science student figuring out the world of software development.
 
-- :books: I’m currently learning Typescript, React, Kotlin and Rust.
+- :computer: Software developer at CIn - UFPE
+- :books: I’m currently learning Algorithms and Data Structures, Digital Systems and Logic for Computer Science
 - :pushpin: Interests: Web Development, Mobile Development, Backend Development.
-- <img src="https://github.com/ifpeopensource.png" width="20px"/> IFPE Open Source: [Click here](https://ifpeopensource.com.br) to discover the wonderful world of open source!
+- <img src="https://github.com/ifpeopensource.png" width="20px"/> [IFPE Open Source](https://ifpeopensource.com.br)
