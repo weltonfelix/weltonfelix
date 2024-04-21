@@ -4,7 +4,8 @@
 
 Hi! I'm a Computer Science student figuring out the world of software development.
 
-- :computer: Software developer at CIn - UFPE
-- :books: I’m currently learning Algorithms and Data Structures, Digital Systems and Logic for Computer Science
-- :pushpin: Interests: Web Development, Mobile Development, Backend Development.
+- :computer: Software developer at [CIn](https://www.cin.ufpe.br/) - UFPE
+- :car: Researcher at [LIVE](http://live.cin.ufpe.br/) - CIn
+- :books: I’m currently learning Deep Learning, Operating Systems and Human-Computer Interfaces.
+- :pushpin: Interests: Computational Photography, Web Development, Mobile Development, Backend Development.
 - <img src="https://github.com/ifpeopensource.png" width="20px"/> [IFPE Open Source](https://ifpeopensource.com.br)
