@@ -4,7 +4,7 @@
 
 Hi! I'm a Computer Science student figuring out the world of software development.
 
-- :computer: Software developer at [CIn](https://www.cin.ufpe.br/) - UFPE
+- :computer: Software developer at [Visagio](https://visagio.com/)
 - :car: Researcher at [LIVE](http://live.cin.ufpe.br/) - CIn
 - :books: I’m currently learning Deep Learning, Operating Systems and Human-Computer Interfaces.
 - :pushpin: Interests: Computational Photography, Web Development, Mobile Development, Backend Development.
