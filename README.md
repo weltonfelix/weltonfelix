@@ -4,7 +4,7 @@
 
 Hi! I'm a Computer Science student figuring out the world of software development.
 
-- :car: Researcher at [LIVE](http://live.cin.ufpe.br/) - CIn
-- :books: I’m currently learning Deep Learning, Operating Systems and Human-Computer Interfaces.
-- :pushpin: Interests: Computational Photography, Web Development, Mobile Development, Backend Development.
-- <img src="https://github.com/ifpeopensource.png" width="20px"/> [IFPE Open Source](https://ifpeopensource.com.br)
+- :apple: iOS Development Student @ [Apple Developer Academy - Recife (UFPE)](https://www.developeracademy.cin.ufpe.br)
+- :seal: President @ [SEAL - Software Engineering Academic League (UFPE)](https://github.com/seal-ufpe)
+- :books: I’m currently learning Machine Learning for Intrusion Detection Systems, Compilers and AI for Software Testing.
+- :pushpin: Interests: Machine Learning, iOS Development, Software Engineering.
